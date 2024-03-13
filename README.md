@@ -37,7 +37,13 @@
 
 
 
-### My coding profiles:
-[LeetCode](https://leetcode.com/rishu_anand/)
+<!-- ### My coding profiles:
+[![website](./img/leetcode.png)](https://leetcode.com/rishu_anand/)
 &nbsp;&nbsp;
-[Gfg](https://auth.geeksforgeeks.org/user/anandrishu310)
+[![website](./img/gfg.png)](https://auth.geeksforgeeks.org/user/anandrishu310) -->
+
+### My coding profiles:
+<a href="https://leetcode.com/rishu_anand/" target="_blank"><img src="./img/leetcode.png" alt="LeetCode" width="40px"></a>
+&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/anandrishu310" target="_blank"><img src="./img/gfg.png" alt="GeeksforGeeks" width="40px"></a>
+
