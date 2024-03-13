@@ -54,6 +54,7 @@
 <br/>
 <p align ="center">     
     <img width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=rishu2604&theme=highcontrast" alt="rishu2604" />    
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishu2604&theme=dark" alt="GitHub Streak" /></a>
 </p>
 
 
