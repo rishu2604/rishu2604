@@ -3,7 +3,8 @@
 
 
 ## I'm a Learner, Developer, and an IT Intern !!
-
+- 👨‍🎓 I am an engineering undergraduate at TIET, currently pursuing Computer Engineering. I have keen interest in software development. I am up for learning any new technology.
+- 🤝 Always up for collaboration in projects.
 - 🌱 I’m currently learning MERN stack.
 - 💻 I have proficiency in ReactJS, Data Structures and Algorithms, OOPS, Database Management and SQL.
 - 🥅 2024 Goals: Learn more about emerging technologies and discover more about myself.
@@ -56,6 +57,10 @@
 </p>
 
 
-
+<a href="https://wakatime.com/@7453b1a6-b1f3-42a7-9f52-27c157de24dc">
+<p align="center">
+<img src="https://wakatime.com/badge/user/7453b1a6-b1f3-42a7-9f52-27c157de24dc.svg">
+</p>
+</a>
 
 
