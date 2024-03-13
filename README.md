@@ -29,10 +29,13 @@
 
 ### Connect with me:
 [![website](./img/twitter-dark.svg)](https://twitter.com/RishuAn99756517)
+[![website](./img/twitter-light.svg)](https://twitter.com/RishuAn99756517)
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/rishu.2604/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/rishu.2604/)
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rishu-anand-4a4883207/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rishu-anand-4a4883207/)
 &nbsp;&nbsp;
 
 
@@ -46,4 +49,13 @@
 <a href="https://leetcode.com/rishu_anand/" target="_blank"><img src="./img/leetcode.png" alt="LeetCode" width="40px"></a>
 &nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/anandrishu310" target="_blank"><img src="./img/gfg.png" alt="GeeksforGeeks" width="40px"></a>
+<br/>
+<br/>
+<p align ="center">     
+    <img width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=rishu2604&theme=highcontrast" alt="rishu2604" />    
+</p>
+
+
+
+
 
