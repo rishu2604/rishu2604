@@ -57,10 +57,10 @@
 </p>
 
 
-<a href="https://wakatime.com/@7453b1a6-b1f3-42a7-9f52-27c157de24dc">
+<!-- <a href="https://wakatime.com/@018e378a-e45d-4d00-9139-22684912a796">
 <p align="center">
-<img src="https://wakatime.com/badge/user/7453b1a6-b1f3-42a7-9f52-27c157de24dc.svg">
+<img src="https://wakatime.com/badge/user/018e378a-e45d-4d00-9139-22684912a796.svg">
 </p>
-</a>
+</a> -->
 
 
