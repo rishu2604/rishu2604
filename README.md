@@ -52,9 +52,8 @@
 <a href="https://auth.geeksforgeeks.org/user/anandrishu310" target="_blank"><img src="./img/gfg.png" alt="GeeksforGeeks" width="40px"></a>
 <br/>
 <br/>
-<p align ="center">     
-    <img width="500"  src="https://github-readme-streak-stats.herokuapp.com/?user=rishu2604&theme=highcontrast" alt="rishu2604" />    
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishu2604&theme=dark" alt="GitHub Streak" /></a>
+<p align ="center">       
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishu2604&theme=highcontrast" alt="GitHub Streak" /></a>
 </p>
 
 
