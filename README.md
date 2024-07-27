@@ -2,7 +2,7 @@
 
 
 
-## I am an enthusiastic learner, aspiring developer, and dedicated IT intern at Kochartech!!
+## I am an enthusiastic learner, aspiring developer, and Junior Engineer at Knowmax (Kochartech)!!
 - 👨‍🎓 I am an engineering undergraduate at TIET, currently pursuing Computer Engineering. I have keen interest in software development. I am up for learning any new technology.
 - 🤝 Always up for collaboration in projects.
 - 🌱 I’m currently learning MERN stack.
@@ -57,10 +57,10 @@
 </p>
 
 
-<!-- <a href="https://wakatime.com/@018e378a-e45d-4d00-9139-22684912a796">
+<a href="https://wakatime.com/@018e378a-e45d-4d00-9139-22684912a796">
 <p align="center">
 <img src="https://wakatime.com/badge/user/018e378a-e45d-4d00-9139-22684912a796.svg">
 </p>
-</a> -->
+</a>
 
 
