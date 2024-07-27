@@ -11,9 +11,9 @@
 - ⚡ Fun fact: I love to play chess, sing and play guitar.
 🛠️ Internship Experience:
 - Knowmax (Kochartech)
-    - - Duration: 6 months
-    - - Role: Intern
-    - - <a href="https://drive.google.com/file/d/1AZPXhx-sQQxBEyJB48zkLMZs4cKyBPxV/view?usp=sharing" target="_blank"><img src="./img/kochartech.jpeg" alt="Kochartech" width="40px"></a>
+    - Duration: 6 months
+    - Role: Intern
+    - <a href="https://drive.google.com/file/d/1AZPXhx-sQQxBEyJB48zkLMZs4cKyBPxV/view?usp=sharing" target="_blank"><img src="./img/kochartech.jpeg" alt="Kochartech" width="40px"></a>
 
 
 
