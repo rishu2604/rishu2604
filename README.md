@@ -59,6 +59,6 @@
 
 
 ### Interned at Knowmax (Kochartech)
-<a href="https://drive.google.com/file/d/1AZPXhx-sQQxBEyJB48zkLMZs4cKyBPxV/view?usp=sharing" target="_blank"><img src="./img/kochartech.png" alt="Kochartech" width="40px"></a>
+<a href="https://drive.google.com/file/d/1AZPXhx-sQQxBEyJB48zkLMZs4cKyBPxV/view?usp=sharing" target="_blank"><img src="./img/kochartech.jpeg" alt="Kochartech" width="40px"></a>
 
 
