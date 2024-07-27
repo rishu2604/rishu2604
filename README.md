@@ -13,6 +13,7 @@
 
 ### Interned at Knowmax (Kochartech)
 <p align ="center">     
+    - Internship completion certificate attached below
     <a href="https://drive.google.com/file/d/1AZPXhx-sQQxBEyJB48zkLMZs4cKyBPxV/view?usp=sharing" target="_blank"><img src="./img/kochartech.jpeg" alt="Kochartech" width="40px"></a>
 </p>
 
