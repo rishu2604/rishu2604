@@ -57,10 +57,8 @@
 </p>
 
 
-<a href="https://wakatime.com/@018e378a-e45d-4d00-9139-22684912a796">
-<p align="center">
-<img src="https://wakatime.com/badge/user/018e378a-e45d-4d00-9139-22684912a796.svg">
-</p>
-</a>
+
+### Interned at Knowmax (Kochartech)
+<a href="https://drive.google.com/file/d/1AZPXhx-sQQxBEyJB48zkLMZs4cKyBPxV/view?usp=sharing" target="_blank"><img src="./img/kochartech.png" alt="Kochartech" width="40px"></a>
 
 
