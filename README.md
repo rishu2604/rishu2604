@@ -9,11 +9,8 @@
 - 💻 I have proficiency in ReactJS, Data Structures and Algorithms, OOPS, Database Management and SQL.
 - 🥅 2024 Goals: Learn more about emerging technologies and discover more about myself.
 - ⚡ Fun fact: I love to play chess, sing and play guitar.
-
-
-### Interned at Knowmax (Kochartech)
-<p align ="center">     
-    - Internship completion certificate attached below
+- Interned at Knowmax (Kochartech)
+<p align ="center">
     <a href="https://drive.google.com/file/d/1AZPXhx-sQQxBEyJB48zkLMZs4cKyBPxV/view?usp=sharing" target="_blank"><img src="./img/kochartech.jpeg" alt="Kochartech" width="40px"></a>
 </p>
 
