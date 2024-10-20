@@ -2,7 +2,7 @@
 
 
 
-## I am an enthusiastic learner, aspiring developer, and Junior Engineer at Knowmax (Kochartech)!!
+## I am an enthusiastic learner, aspiring developer, and Product Engineer at Knowmax (Kochartech)!!
 - 👨‍🎓 I am an engineering undergraduate at TIET, currently pursuing Computer Engineering. I have keen interest in software development. I am up for learning any new technology.
 - 🤝 Always up for collaboration in projects.
 - 🌱 I’m currently learning MERN stack.
