@@ -5,9 +5,8 @@
 ## I am an enthusiastic learner, aspiring developer, and Product Engineer at Knowmax (Kochartech)!!
 - 👨‍🎓 I am an engineering undergraduate at TIET, currently pursuing Computer Engineering. I have keen interest in software development. I am up for learning any new technology.
 - 🤝 Always up for collaboration in projects.
-- 🌱 I’m currently learning MERN stack.
-- 💻 I have proficiency in ReactJS, Data Structures and Algorithms, OOPS, Database Management and SQL.
-- 🥅 2024 Goals: Learn more about emerging technologies and discover more about myself.
+- 💻 I have proficiency in ReactJS, NestJS, Docker, Data Structures and Algorithms, OOPS, Database Management and SQL, Prisma.
+- 🥅 2025 Goals: Learn more about emerging technologies and discover more about myself.
 - ⚡ Fun fact: I love to play chess, sing and play guitar.
 - 🛠️ Internship Experience:
     - Knowmax (Kochartech)
