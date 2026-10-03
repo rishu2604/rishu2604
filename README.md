@@ -8,13 +8,11 @@
 - 💻 I have proficiency in ReactJS, NestJS, Docker, Data Structures and Algorithms, OOPS, Database Management and SQL, Prisma.
 - 🥅 2025 Goals: Learn more about emerging technologies and discover more about myself.
 - ⚡ Fun fact: I love to play chess, sing and play guitar.
-- 🛠️ Internship Experience:
+- 🛠️ Job Experience:
     - Knowmax (Kochartech)
-        - Duration: 5 months
-        - Role: Intern
+        - Software Developer (August 2024 - November 2026)
+        - Internship (January 2024 - July 2024)
         - <a href="https://drive.google.com/file/d/1AZPXhx-sQQxBEyJB48zkLMZs4cKyBPxV/view?usp=sharing" target="_blank"><img src="./img/kochartech.jpeg" alt="Kochartech" width="40px"></a>
-
-
 
 ### Languages and Tools:
 
